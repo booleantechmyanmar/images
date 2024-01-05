@@ -1,4 +1,4 @@
-{media:{
+[
     {
       "key": "mrtv_entertainment",
       "title": "MRTV Entertainment",
@@ -108,5 +108,5 @@
           "aHR0cDovLzIwMy44MS44NC4xMzAvaGxzL213ZF9zaG9wcGluZy9pbmRleC5tM3U4Cg=="
     }
   
-}
-}
+]
+
