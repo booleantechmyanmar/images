@@ -1,4 +1,4 @@
-{
+[
     {
       "key": "mrtv_entertainment",
       "title": "MRTV Entertainment",
@@ -106,6 +106,6 @@
           "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9td2QuanBlZw==",
       "url":
           "aHR0cDovLzIwMy44MS44NC4xMzAvaGxzL213ZF9zaG9wcGluZy9pbmRleC5tM3U4Cg=="
-    },
+    }
   
-}
+]
