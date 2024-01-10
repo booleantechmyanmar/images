@@ -82,13 +82,13 @@
             "key": "mrtv4",
             "title": "MRTV-4",
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tcnR2NC5wbmc=",
-            "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYvMDFndDc0a2Y2MzE5NGhrY2g3cGJzcDQ2aGU="
+            "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYv"
         },
         {
             "key": "channel7",
             "title": "Channel 7",
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9jaGFubmVsNy5wbmc=",
-            "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYvMDFndDc0bjk2dmE3NjRmemU4M3cyOTU5dHM="
+            "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYv"
         }
     ]
 }
