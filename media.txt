@@ -10,7 +10,7 @@
             "key": "dvb",
             "title": "DVB",
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9kdmIud2VicA==",
-            "url": "aHR0cHM6Ly9zdHJlYW0tMDQuc2cxLmRhaWx5bW90aW9uLmNvbS9zZWMoLVNWeTYwUVE2c0tuMUpmai12OVEwdnh6MHhmN1NzNWN5VzBqQXRibERWQ0dGTXRNODVHa2ZONkFLaFU2cU1jcikvZG0vMy94OGU2MXFqL3MvbGl2ZS0xLm0zdTg="
+            "url": "aHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3g4ZTYxcWo="
         },
         {
             "key": "myanmar_music",
