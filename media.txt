@@ -7,12 +7,6 @@
             "url": "aHR0cHM6Ly81YTEzZmUzMmVmNzQ4LnN0cmVhbWxvY2submV0L21tcGxheS9tcnR2LWVudGVydGFpbm1lbnQvcGxheWxpc3QubTN1OAo="
         },
         {
-            "key": "mrtv_education",
-            "title": "MRTV Education",
-            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tcnR2LnBuZw==",
-            "url": "aHR0cHM6Ly81YTEzZmUzMmVmNzQ4LnN0cmVhbWxvY2submV0L21tcGxheS9tcnR2LWVudGVydGFpbm1lbnQvY2h1bmtsaXN0X3cxMjYxMjcyNTcwLm0zdTg="
-        },
-        {
             "key": "dvb",
             "title": "DVB",
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9kdmIud2VicA==",
@@ -83,6 +77,18 @@
             "title": "MWD Shopping",
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9td2QuanBlZw==",
             "url": "aHR0cDovLzIwMy44MS44NC4xMzAvaGxzL213ZF9zaG9wcGluZy9pbmRleC5tM3U4Cg=="
+        },
+        {
+            "key": "mrtv4",
+            "title": "MRTV-4",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tcnR2NC5wbmc=",
+            "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYvMDFndDc0a2Y2MzE5NGhrY2g3cGJzcDQ2aGU="
+        },
+        {
+            "key": "channel7",
+            "title": "Channel 7",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9jaGFubmVsNy5wbmc=",
+            "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYvMDFndDc0bjk2dmE3NjRmemU4M3cyOTU5dHM="
         }
     ]
 }
