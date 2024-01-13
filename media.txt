@@ -111,6 +111,34 @@
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tYWhhcmJhd2RpLnBuZw==",
             "url": "aHR0cHM6Ly93d3cucHlvbmVwbGF5LmNvbS9saXZldHYvMDFndDhmMTZqMW40bXB4MWJiMWc3c2ZheXc=",
             "webview": true
+        },
+        {
+            "key": "nhk_world",
+            "title": "NHK World",
+            "image": "aHR0cHM6Ly9naXRodWIuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvYmxvYi9tYWluL25oa193b3JsZC5qcGVnP3Jhdz10cnVl",
+            "url": "aHR0cHM6Ly9uaGt3bGl2ZS14anAuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDAzNDU4L25oa3dsaXZlLXhqcC1lbi9pbmRleF8xTS5tM3U4Cg==",
+            "webview": false
+        },
+        {
+            "key": "cgtv",
+            "title": "CGTV",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9jZ3R2LmpwZWc=",
+            "url": "aHR0cHM6Ly9saXZlZG9jLmNndG4uY29tLzEwMDBkL3Byb2dfaW5kZXgubTN1OA==",
+            "webview": false
+        },
+        {
+            "key": "pbs_kids",
+            "title": "PBS Kids",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9wYnNfa2lkcy5wbmc=",
+            "url": "aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTQwL2FtbHN0OjIwMDkxNC0xMjk4MjkwL2NodW5rbGlzdF9iMjAwMDAwMF9EVlIubTN1OAo=",
+            "webview": false
+        },
+        {
+            "key": "goal_scores",
+            "title": "Goal Scores",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9nb2FsX3Njb3Jlcy5wbmc=",
+            "url": "aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9jbC8yMzEyMjdjbTV1ZW5vcW1zc2RhM2M1dmRpMC8xMjgweDcyMF8zMDAwMTQwXzBfZi5tM3U4Cg==",
+            "webview": false
         }
     ]
 }
