@@ -137,7 +137,35 @@
             "key": "goal_scores",
             "title": "Goal Scores",
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9nb2FsX3Njb3Jlcy5wbmc=",
-            "url": "aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9jbC8yMzEyMjdjbTV1ZW5vcW1zc2RhM2M1dmRpMC8xMjgweDcyMF8zMDAwMTQwXzBfZi5tM3U4Cg==",
+            "url": "aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9jbC8yMzEyMjdjbTV1ZW5vcW1zc2RhM2M1dmRpMC8xMjgweDcyMF8zMDAwMTQwXzBfZi5tM3U4",
+            "webview": false
+        },
+        {
+            "key": "cartoon_network",
+            "title": "Cartoon Network",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9jYXJ0b29uX25ldHdvcmsucG5n",
+            "url": "aHR0cHM6Ly9zaGxzLWNhcnRvb24tbmV0LXByb2QtZHViLnNoYWhpZC5uZXQvb3V0L3YxL2RjNGFhODczNzIzNzQzMjVhNjZiZTQ1OGYyOWVhYjBmL2luZGV4XzcubTN1OA==",
+            "webview": false
+        },
+        {
+            "key": "foxs_news",
+            "title": "Foxs News",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9mb3hzX25ld3MucG5n",
+            "url": "aHR0cHM6Ly9mb3gtZm94bmV3c25vdy1zYW1zdW5ndXMuYW1hZ2kudHYvcGxheWxpc3Q0ODBwLm0zdTg=",
+            "webview": false
+        },
+        {
+            "key": "tennis",
+            "title": "Tennis",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi90ZW5uaXMucG5n",
+            "url": "aHR0cHM6Ly90ZW5uaXNjaGFubmVsLWludGwtc2Ftc3VuZy11ay5hbWFnaS50di9wbGF5bGlzdDcyMF9wLm0zdTg=",
+            "webview": false
+        },
+        {
+            "key": "Menu TV",
+            "title": "Menu TV",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tZW51X3R2LnBuZw==",
+            "url": "aHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC9yMmQyYzRjYTViZjU3NDU2ZmIxZDE2MjU1YzFhNTM1YzgvZXUtd2VzdC0xL2V1LXdlc3QtMS82MDU4MDA0MjAzMDAxL3Byb2ZpbGVfMS9jaHVua2xpc3QubTN1OA==",
             "webview": false
         }
     ]
