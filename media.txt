@@ -162,9 +162,9 @@
             "webview": false
         },
         {
-            "key": "Menu TV",
-            "title": "Menu TV",
-            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tZW51X3R2LnBuZw==",
+            "key": "Manu TV",
+            "title": "Manu TV",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tYW51X3R2LnBuZw==",
             "url": "aHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC9yMmQyYzRjYTViZjU3NDU2ZmIxZDE2MjU1YzFhNTM1YzgvZXUtd2VzdC0xL2V1LXdlc3QtMS82MDU4MDA0MjAzMDAxL3Byb2ZpbGVfMS9jaHVua2xpc3QubTN1OA==",
             "webview": false
         }
