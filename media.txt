@@ -167,6 +167,13 @@
             "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tYW51X3R2LnBuZw==",
             "url": "aHR0cHM6Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC9yMmQyYzRjYTViZjU3NDU2ZmIxZDE2MjU1YzFhNTM1YzgvZXUtd2VzdC0xL2V1LXdlc3QtMS82MDU4MDA0MjAzMDAxL3Byb2ZpbGVfMS9jaHVua2xpc3QubTN1OA==",
             "webview": false
+        },
+        {
+            "key": "5plus",
+            "title": "5 Plus",
+            "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi81cGx1cy5wbmc=",
+            "url": "aHR0cHM6Ly9zdHJlYW1tYWluLm15YW5tYXJ0dmNoYW5uZWxzLmNvbTo5OTkvd2Vic2l0ZS01cGx1cy1zdHJlYW0vd2Vic2l0ZS01cGx1cy1zdHJlYW0vY2h1bmtzLm0zdTgK",
+            "webview": false
         }
     ]
 }
