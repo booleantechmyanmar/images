@@ -27,7 +27,8 @@
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tcnR2LnBuZw==",
       "url": "aHR0cDovLzVhMTNmZTMyZWY3NDguc3RyZWFtbG9jay5uZXQvbW1wbGF5L21ydHYvY2h1bmtsaXN0X3cxNzczMDUxNzQ3Lm0zdTg=",
       "webview": false
-    },{
+    },
+{
       "key": "education",
       "title": "MRTV Education",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tcnR2LnBuZw==",
