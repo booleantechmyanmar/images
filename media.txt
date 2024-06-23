@@ -244,6 +244,62 @@
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9kd25ld3MucG5n",
       "url": "aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvc3RyZWFtMDUvc3RyZWFtUGxheWxpc3QubTN1OA==",
       "webview": false
+    },
+    {
+      "key": "edge_sport1",
+      "title": "Edge Sport1",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9lZGdlc3BvcnQucG5n",
+      "url": "aHR0cHM6Ly9lZGdlc3BvcnQtcmFrdXRlbi1zYW1zdW5nLmFtYWdpLnR2L3BsYXlsaXN0MTA4MHAubTN1OA==",
+      "webview": false
+    },
+    {
+      "key": "edge_sport4",
+      "title": "Edge Sport4",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9lZGdlc3BvcnQucG5n",
+      "url": "aHR0cHM6Ly9lZGdlc3BvcnRzLXJvdy1yYWt1dGVuLmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=",
+      "webview": false
+    },
+    {
+      "key": "news_max",
+      "title": "News Max",
+      "image": "aHR0cHM6Ly9naXRodWIuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvYmxvYi9tYWluL25ld3NtYXguanBlZw==",
+      "url": "aHR0cHM6Ly9kYWkyLnh1bW8uY29tL2FtYWdpX2hsc19kYXRhX3h1bW8xMjEyQS1uZXdzbWF4eHVtby9DRE4vMTI4MHg3MjBfMjc4MDgwMC9jaHVua2xpc3QubTN1OA==",
+      "webview": false
+    },
+    {
+      "key": "nick",
+      "title": "Nick",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9uaWNrLnBuZw==",
+      "url": "aHR0cHM6Ly92aXBzLWxpdmVjZG4uZnB0cGxheS5uZXQvaGRhMy9kcmVhbXdvcmtzX3ZobHMuc21pbC9jaHVua2xpc3QubTN1OA==",
+      "webview": false
+    },
+    {
+      "key": "asianfoodnetwork",
+      "title": "Asian Food Network",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9hc2lhbmZvb2RuZXR3b3JrLmpwZWc=",
+      "url": "aHR0cHM6Ly92aXBzLWxpdmVjZG4uZnB0cGxheS5uZXQvaGRhMS9hZmNoZF92aGxzLnNtaWwvY2h1bmtsaXN0X2I1MDAwMDAwLm0zdTg=",
+      "webview": false
+    },
+    {
+      "key": "kpoptv",
+      "title": "KPOP TV",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9rcG9wLmpwZWc=",
+      "url": "aHR0cHM6Ly9zcnYxLnpjYXN0LmNvbS5ici9rcG9wdHYva3BvcHR2Ly5tM3U4",
+      "webview": false
+    },
+    {
+      "key": "mtvbiggestpop",
+      "title": "MTV Biggest Pop",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tdHZiaWdnZXN0cG9wLmpwZWc=",
+      "url": "aHR0cHM6Ly9wbHV0by1saXZlLnBsdXRvdHYubmV0L2VncmVzcy9jaGFuZGxlci9wbHV0bzAxL2xpdmUvVklBQ0JTMDIvbWFzdGVyLm0zdTg=",
+      "webview": false
+    },
+    {
+      "key": "kickboxing",
+      "title": "Kick Boxing",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9raWNrYm94aW5nLmpwZWc=",
+      "url": "aHR0cHM6Ly9saXZlLWsyMzAyLWticC4xcGx1czEudmlkZW8vc3BvcnQvc21pbDpzcG9ydC5zbWlsL2NodW5rbGlzdF9iNjAwMDAwMC5tM3U4",
+      "webview": false
     }
   ]
 }
