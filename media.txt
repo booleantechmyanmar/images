@@ -28,7 +28,7 @@
       "url": "aHR0cDovLzVhMTNmZTMyZWY3NDguc3RyZWFtbG9jay5uZXQvbW1wbGF5L21ydHYvY2h1bmtsaXN0X3cxNzczMDUxNzQ3Lm0zdTg=",
       "webview": false
     },
-{
+    {
       "key": "education",
       "title": "MRTV Education",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tcnR2LnBuZw==",
@@ -169,6 +169,13 @@
       "webview": false
     },
     {
+      "key": "ebs_kids",
+      "title": "EBS Kids",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9FQlNLaWRzLnBuZw==",
+      "url": "aHR0cHM6Ly9lYnNvbmFpci5lYnMuY28ua3IvZWJzdWZhbWlseXBjL2ZhbWlseXBjMW0vY2h1bmtsaXN0X3c0ODEwNDEwOTkubTN1OA==",
+      "webview": false
+    },
+    {
       "key": "pbs_kids",
       "title": "PBS Kids",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9wYnNfa2lkcy5wbmc=",
@@ -179,8 +186,8 @@
       "key": "goal_scores",
       "title": "Goal Scores",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9nb2FsX3Njb3Jlcy5wbmc=",
-      "url": "aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9jbC8yMzEyMjdjbTV1ZW5vcW1zc2RhM2M1dmRpMC8xMjgweDcyMF8zMDAwMTQwXzBfZi5tM3U4",
-      "webview": false
+      "url": "aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9tbQ==",
+      "webview": true
     },
     {
       "key": "cartoon_network",
@@ -215,6 +222,27 @@
       "title": "Nasa TV",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9uYXNhdHYucG5n",
       "url": "aHR0cDovL2E5MmNjYjYyLWxwLW9tZWdhLnVtcy5zZXJ2aWNlcy52aWRlby5pYm0uY29tL3BsYXlsaXN0L2RpcmVjdGhscy9jaGFubmVsLzY1NDAxNTQvcGxheWxpc3QubTN1OA==",
+      "webview": false
+    },
+    {
+      "key": "thai2d3d",
+      "title": "Thai 2D 3D",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9UaGFpM0QucG5n",
+      "url": "aHR0cHM6Ly9zdHJlYW1pbmctd2ViLnRoYWlyYXRoLmNvLnRoL2hscy9wbGF5bGlzdF9oaS5tM3U4",
+      "webview": false
+    },
+    {
+      "key": "fite_sport",
+      "title": "Fite Sport",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9pbWFnZXMucG5n",
+      "url": "aHR0cHM6Ly9jZG4tY2YuZml0ZS50di9saW5lYXIvZml0ZTI0Ny80MDM4NjI5X2ZpdGUtMjQ3L2xpdmVfMzYwL2NodW5rcy5tM3U=",
+      "webview": false
+    },
+    {
+      "key": "dw_news",
+      "title": "DW News",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9kd25ld3MucG5n",
+      "url": "aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvc3RyZWFtMDUvc3RyZWFtUGxheWxpc3QubTN1OA==",
       "webview": false
     }
   ]
