@@ -300,6 +300,41 @@
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9raWNrYm94aW5nLmpwZWc=",
       "url": "aHR0cHM6Ly9saXZlLWsyMzAyLWticC4xcGx1czEudmlkZW8vc3BvcnQvc21pbDpzcG9ydC5zbWlsL2NodW5rbGlzdF9iNjAwMDAwMC5tM3U4",
       "webview": false
+    },
+    {
+      "key": "dubairacing",
+      "title": "Dubai Racing",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9kdWJhaXJhY2luZy5qcGVn",
+      "url": "aHR0cHM6Ly9kbWl0aHJ2bGwuY2RuLm1nbWxjZG4uY29tL2R1YmFpcmFjaW5nL3NtaWw6ZHViYWlyYWNpbmcuc21pbC9jaHVua2xpc3RfYjE1MDAwMDAubTN1OA==",
+      "webview": false
+    },
+    {
+      "key": "edge",
+      "title": "Edge",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9lZGdlLmpwZWc=",
+      "url": "aHR0cHM6Ly9lZGdlMTEuOTc1ODguaXIuY2RuLmlyL2hsczIvc3NjMS5tM3U4",
+      "webview": false
+    },
+    {
+      "key": "hourseandcountry",
+      "title": "Hourse And Country",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9ob3Vyc2VhbmRjb3VudHJ5LmpwZWc=",
+      "url": "aHR0cHM6Ly9obmMtZnJlZS12aWV3bGlmdC5hbWFnaS50di9wbGF5bGlzdDI4OF9wLm0zdTg=",
+      "webview": false
+    },
+    {
+      "key": "aljazeera",
+      "title": "Aljazeera English",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9hbGphemVlcmEucG5n",
+      "url": "aHR0cHM6Ly9saXZlLWhscy13ZWItYWplLmdldGFqLm5ldC9BSkUvaW5kZXgubTN1OA==",
+      "webview": false
+    },
+    {
+      "key": "cnanews",
+      "title": "CNA News",
+      "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9jbmFuZXdzLmpwZWc=",
+      "url": "aHR0cHM6Ly9kMmUxYXNuc2w3YnI3Yi5jbG91ZGZyb250Lm5ldC83NzgyZTIwNWU3MmY0M2FlYjRhNDhlYzk3ZjY2ZWJiZS9pbmRleF81Lm0zdTg=",
+      "webview": false
     }
   ]
 }
