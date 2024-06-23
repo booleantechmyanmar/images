@@ -152,7 +152,7 @@
       "title": "တရားတော် များ",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tYWhhcmJhd2RpLnBuZw==",
       "url": "aHR0cHM6Ly90aGl0c2FycGFyYW1pLm9yZy9tcDNfZGhhbW1hX3RhbGs=",
-      "webview": false
+      "webview": true
     },
     {
       "key": "nhk_world",
