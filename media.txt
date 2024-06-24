@@ -339,7 +339,7 @@
       "key": "moviesphere",
       "title": "Movie Sphere",
       "image": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Jvb2xlYW50ZWNobXlhbm1hci9pbWFnZXMvbWFpbi9tb3ZpZXNwaGVyZS53ZWJw",
-      "url": "http://moviesphere-roku.amagi.tv/playlist720lp.m3u8",
+      "url": "aHR0cDovL21vdmllc3BoZXJlLXJva3UuYW1hZ2kudHYvcGxheWxpc3Q3MjBscC5tM3U4",
       "webview": false
     }
   ]
